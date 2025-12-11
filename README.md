@@ -10,7 +10,7 @@
 - 🌱 Estoy aprendiendo sobre **React para crear interfaces de usuario dinámicas**.
 - 👯 Busco colaborar en **proyectos de código abierto para principiantes**.
 - 💬 Pregúntame sobre **HTML, CSS, JavaScript y fundamentos de SQL**.
-- 📫 Cómo contactarme: **[tu-email@dominio.com]** o a través de mi [LinkedIn](URL_DE_TU_LINKEDIN).
+- 📫 Cómo contactarme: **[nicolascalisto@gmail.com]** o a través de mi [LinkedIn](https://www.linkedin.com/in/nicolas-calisto/).
 - 😄 Dato curioso: [Escribe aquí algo interesante sobre ti, ej: Me encanta el café y el código limpio]
 
 <br>
